@@ -1,5 +1,5 @@
 # action-recognition-with-mmaction
-Training the action recognition model and the model knows how the people in the video are doing.The model can classify total 101 actions.
+Training the action recognition model that can able to predict how the people are doing.The model can classify total 101 actions.
 
 https://github.com/KyawHtetLinn/action-recognition-with-mmaction/assets/70162137/e6ed1cbb-6632-43a7-8700-28550f60c428
 
