@@ -21,3 +21,7 @@ The model is trained with [mmaction](https://github.com/open-mmlab/mmaction2) us
 ## Metrics
 
 ![alt text](https://github.com/KyawHtetLinn/action-recognition-with-mmaction/blob/main/assets/acc.png)
+
+## References
+
+[mmaction2](https://github.com/open-mmlab/mmaction2)
