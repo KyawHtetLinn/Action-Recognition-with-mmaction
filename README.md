@@ -1,13 +1,15 @@
-# action-recognition-with-mmaction
+# Action Recognition with mmaction2
 
-Training the action recognition model that can predict how the people are doing in the video.The model can recognize total 101 actions.
-The top1 accuracy is 0.794 and top5 accuracy is 0.942 .
+<p>We are going to train an action recognition model using the video dataset and the model can predict what the people are doing in the video.</p>
+<p>The model can recognize well total 101 actions.The top1 accuracy is 0.794 and top5 accuracy is 0.942 .</p>
 
 https://github.com/KyawHtetLinn/action-recognition-with-mmaction/assets/70162137/e6ed1cbb-6632-43a7-8700-28550f60c428  
 
 https://github.com/KyawHtetLinn/action-recognition-with-mmaction/assets/70162137/ac75c017-8249-44e5-87de-2d9e36d918f9
 
-The model is trained with [mmaction](https://github.com/open-mmlab/mmaction2) using the model [tsn](https://github.com/open-mmlab/mmaction2/blob/main/configs/recognition/tsn/README.md) . 
+<p>The above videos show the inference with non training videos</p>
+
+<p>The model is trained with <a href="https://github.com/open-mmlab/mmaction2">mmaction library</a> with the <a href="https://github.com/open-mmlab/mmaction2/blob/main/configs/recognition/tsn/README.md">tsn networks</a> . </p>
 
 ## About Model 
 
@@ -24,4 +26,5 @@ The model is trained with [mmaction](https://github.com/open-mmlab/mmaction2) us
 
 ## References
 
-[mmaction2](https://github.com/open-mmlab/mmaction2)
+* [mmaction2](https://github.com/open-mmlab/mmaction2)
+* [mmaction2 datasets](https://mmaction2.readthedocs.io/en/latest/supported_datasets.html)
