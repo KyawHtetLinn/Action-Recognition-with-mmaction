@@ -14,8 +14,8 @@ https://github.com/KyawHtetLinn/action-recognition-with-mmaction/assets/70162137
 ## About Model 
 
 * The model is trained with [Temporal Segment Network](https://github.com/open-mmlab/mmaction2/blob/main/configs/recognition/tsn/README.md) that is video-based action recognition networks.You can read the [paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_2) for more detail.
-* The dataset is [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) and the train split 1 is used in the training process and the split contain 9537 vidoes.
-* 15 epochs
+* The dataset is [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) and *train_split_1* is used in this training process and the split contain 9537 vidoes.
+* 15 epochs 
 * Trained with colab gpu.
 * The training notebook is [here](https://github.com/KyawHtetLinn/action-recognition-with-mmaction/blob/main/train/action_recognition_mmaction(train).ipynb) .
 * The inference notebook is [here](https://github.com/KyawHtetLinn/action-recognition-with-mmaction/blob/main/inference/action_recognition_mmaction(inference).ipynb) .
